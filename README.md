@@ -1,9 +1,21 @@
-## Hi there 👋
+### Hi 👋, I'm Shahrzad!
+
+<p>
+I'm a <strong>Junior Full Stack Software Engineer</strong> with 1.5 years of experience working in a small, agile team where I got to wear many hats—from building front-end features to working on back-end services, databases, and cloud deployments ☁️.  
+</p>
+
+<p>
+I hold a <strong>Master’s degree in Electrical & Computer Engineering</strong>, and during my studies I explored projects in <em>AI, Machine Learning, and Image Processing 🤖</em>. Along the way, I picked up experience in building web apps and experimenting with different technologies.  
+</p>
+
+<p>
+Right now, I’m focusing on <strong>personal projects</strong> to sharpen my skills, discover my specialization, and keep learning 🚀. I’m passionate about turning ideas into useful tools and love exploring new challenges in tech.  
+</p>
+
+<p>✨ Always curious. Always building. Always learning. ✨</p>
+
 
 <!--
-**shahrzadbst/shahrzadbst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
