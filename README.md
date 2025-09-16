@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Shahrzad!
 
 <p>
-I'm a <strong>Junior Full Stack Software Engineer</strong> with 1.5 years of experience working in a small, agile team where I got to wear many hats—from building front-end features to working on back-end services, databases, and cloud deployments ☁️.  
+I'm a <strong>Junior Full Stack Software Engineer</strong> with almost 2 years of experience working in a small, agile team where I got to wear many hats—from building front-end features to working on back-end services, databases, and cloud deployments ☁️.  
 </p>
 
 <p>
