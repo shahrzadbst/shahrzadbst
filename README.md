@@ -14,6 +14,8 @@ Right now, I’m focusing on <strong>personal projects</strong> to sharpen my sk
 
 <p>✨ Always curious. Always building. Always learning. ✨</p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrzadbst&hide_progress=true)
+
 <!--
 
 ![Shahrzad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahrzadbst&show_icons=true&theme=radical)
