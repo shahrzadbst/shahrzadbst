@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <strong>Ottawa, ON, Canada 🇨🇦 | Permanent Resident</strong>
+  <strong>Ottawa, ON, Canada 🇨🇦 </strong>
 </p>
 
 <p align="center">
