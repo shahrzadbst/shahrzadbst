@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Shahrzad!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Ottawa%2C+ON+%F0%9F%87%A8%F0%9F%87%A6;Master%E2%80%99s+in+ECE+%7C+Python+%26+FastAPI+Expert;Learning+Web3+%26+Cybersecurity+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=500&lines=Full+Stack+Software+Engineer;Ottawa%2C+ON+%F0%9F%87%A8%F0%9F%87%A6;Master%E2%80%99s+in+ECE+%7C+Python+%26+FastAPI+Expert;" alt="Typing SVG" />
 </div>
 
 <p align="center">
